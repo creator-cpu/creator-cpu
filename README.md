@@ -1,20 +1,41 @@
-# 👋 Hi, I’m @creator-cpu  
+# Hi there! 👋 I'm Black Fox
 
-### 🚀 About Me  
-- 👀 I’m interested in **front-end, back-end, and full-stack development**  
-- 🌱 I’m currently learning **HTML and CSS for front-end development**  
-- 💻 My current projects are **practice-based front-end websites**  
-- 💞️ I’m looking to collaborate on **beginner-friendly web projects**  
-- 📫 How to reach me: **[https://x.com/blaack_foxx]**  
-- 😄 Pronouns: **He/Him**  
-- ⚡ Fun fact: **I love experimenting with web design and improving my coding skills!**  
+🤖 Aspiring AI Developer  
+🌱 Currently learning HTML, CSS & JavaScript  
+🎓 High school student | Future KAIST student 🇰🇷  
 
-### 🛠️ Tech Stack  
-- **Languages**: HTML, CSS (Planning to learn JavaScript and more)  
-- **Tools**: Git, VS Code  
+---
 
-### 📌 Current Goals  
-- 🎯 Improve my **front-end skills through real projects**  
-- 🚀 Learn **JavaScript and move towards full-stack development**  
+## 🧠 Focus Area: Artificial Intelligence
+- Learning Python basics  
+- Exploring Machine Learning (ML)  
+- Getting started with Deep Learning & Neural Networks  
+- Building real projects to gain hands-on experience  
 
-Let’s connect and grow together! 🚀  
+---
+
+## 🌐 Frontend Skills:
+- HTML5 + CSS3  
+- JavaScript (beginner level)  
+- VS Code, Git & GitHub  
+- Creating simple web pages & practicing daily  
+
+---
+
+## 🎯 My Goals for 2025:
+- ✅ Complete at least one AI mini project (e.g. a simple ML model)  
+- 🧱 Strengthen JavaScript and Python foundations  
+- 🧠 Dive deeper into core AI concepts  
+- 🎓 Prepare for KAIST university admission  
+- 🌍 Build my personal portfolio and grow on GitHub  
+
+---
+
+## 📫 Let's connect:
+- Telegram: [@Yato_jon](https://t.me/@Yato_jon)  
+- Email: k8477375@gmail.com
+- X.com: @blaack_foxx
+
+---
+
+_“Dreams are never small.” – Elon Musk_ 🚀
