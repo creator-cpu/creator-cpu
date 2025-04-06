@@ -34,7 +34,7 @@
 ## 📫 Let's connect:
 - Telegram: [@Yato_jon](https://t.me/@Yato_jon)  
 - Email: k8477375@gmail.com
-- X.com: @blaack_foxx
+- X.com: (https://x.com/blaack_foxx)
 
 ---
 
